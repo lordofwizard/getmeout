@@ -1,0 +1,6 @@
+title; aliases; description; icon; createdAt; lastUpdated; tags; coverImage; reference
+SystemD; ; Useful stuff for system services and relative information. ; ; 2024-04-04T10:44:33.589Z; 2024-05-16T14:06:04.848Z; Linux, cli; image; ./SystemD.md
+How to set proper display variable cookie in Xorg; ; ; ; 2024-06-27T14:25:34.155Z; 2025-01-05T11:43:22.995Z; Linux, RigBetelLabs, Arch, cli; ; ./How%20to%20set%20proper%20display%20variable%20cookie%20in%20Xorg.md
+Setting Up Python 3.11 with pyenv on Arch Linux (old doc); ; ; ; 2025-02-26T09:14:16.126Z; 2025-02-26T09:26:28.760Z; Python, quick; ; ./Setting%20Up%20Python%20311%20with%20pyenv%20on%20Arch%20Linux%20(old%20doc).md
+BTRFS + Arch; ; ; ; 2024-04-21T08:53:55.063Z; 2024-04-22T10:53:28.755Z; Arch, Linux, cli, Article; ; ./BTRFS%20+%20Arch.md
+Add password protection in bashrc; ; ; ; 2024-04-15T15:10:09.642Z; 2024-04-15T15:13:40.144Z; ; ; ./Add%20password%20protection%20in%20bashrc.md

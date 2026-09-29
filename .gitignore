@@ -1,0 +1,30 @@
+# Executables and binary artifacts — never commit these
+*.exe
+*.dll
+*.so
+*.so.*
+*.dylib
+*.bin
+*.iso
+*.img
+
+# Archives
+*.zip
+*.tar
+*.tar.*
+*.tgz
+*.zst
+*.gz
+*.7z
+*.rar
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+*.swp
+*.swo
+
+# Local, machine-specific Claude Code state (permissions etc.)
+.claude/settings.local.json

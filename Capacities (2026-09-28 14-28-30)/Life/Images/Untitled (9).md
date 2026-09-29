@@ -1,0 +1,22 @@
+---
+type: 'Image'
+title: Untitled
+description: null
+createdAt: '2024-05-19T06:54:09.382Z'
+tags: []
+source: upload
+url: null
+mimeType: image/jpeg
+fileSize: 131101
+width: 899
+height: 1599
+category: null
+colors: null
+---
+
+# Untitled
+
+
+Media: ![Image](https://capacities-files.s3.eu-central-1.amazonaws.com/private/1ded11b5-ac69-4569-9b9e-65a4859b6004/raw.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIA5VTNRR6EBR56K2NK%2F20260928%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260928T085821Z&X-Amz-Expires=43200&X-Amz-Signature=718ee477890c5a3c5831abcbdc88a1a5de4c1388ad1933e048ad7c627d5caec3&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+

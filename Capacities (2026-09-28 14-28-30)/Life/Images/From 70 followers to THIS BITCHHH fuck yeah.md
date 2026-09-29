@@ -1,0 +1,22 @@
+---
+type: 'Image'
+title: From 70 followers to THIS BITCHHH fuck yeah
+description: null
+createdAt: '2024-07-27T09:34:44.059Z'
+tags: []
+source: upload
+url: null
+mimeType: image/jpeg
+fileSize: 121337
+width: 811
+height: 1364
+category: null
+colors: null
+---
+
+# From 70 followers to THIS BITCHHH fuck yeah
+
+
+Media: ![Image](https://capacities-files.s3.eu-central-1.amazonaws.com/private/73b37178-abcc-4a29-8a20-3ac297649b8e/raw.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIA5VTNRR6EBR56K2NK%2F20260928%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260928T085821Z&X-Amz-Expires=43200&X-Amz-Signature=9e8951bfdc413bb9b7519165c9d5b611e4f456be1776717a1ed8d8d6ba9d0605&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+
+

@@ -1,0 +1,8 @@
+title; aliases; description; icon; createdAt; lastUpdated; tags; coverImage; reference
+Everything Advait did at RigBetel Labs; ; not in a order though, but yeahr overall everything stuff; 🤖; 2024-07-23T06:26:25.358Z; 2025-01-08T07:20:17.221Z; RigBetelLabs, Linux; Untitled; ./Everything%20Advait%20did%20at%20RigBetel%20Labs.md
+Install Desktop and ROS Stuff on Raspberry Pi; ; ; ; 2024-04-25T07:21:32.619Z; 2025-01-05T11:43:22.981Z; Linux, RigBetelLabs, ROS; ; ./Install%20Desktop%20and%20ROS%20Stuff%20on%20Raspberry%20Pi.md
+Playit.GG Service setup for Raspberry Pi 4 Model B; ; ; 🧸; 2024-04-25T11:29:48.029Z; 2025-01-05T11:43:22.928Z; Linux, RigBetelLabs, Docker; ; ./PlayitGG%20Service%20setup%20for%20Raspberry%20Pi%204%20Model%20B.md
+Setup WebRTC Based Web Server for TeleOp Robot; ; ; ; 2024-05-28T05:34:31.160Z; 2024-07-23T06:10:41.269Z; RigBetelLabs, TortoiseBot, ROS, Linux; ; ./Setup%20WebRTC%20Based%20Web%20Server%20for%20TeleOp%20Robot.md
+Transitive Robotics, ; ; ; ; 2024-05-25T05:52:12.288Z; 2024-07-23T06:10:41.279Z; Linux, RigBetelLabs, TortoiseBot, ROS; ; ./Transitive%20Robotics,.md
+Bring Up SystemD Service; ; ; ; 2024-04-07T07:43:15.559Z; 2024-04-07T07:46:05.905Z; Linux, Docker, RigBetelLabs, cli; ; ./Bring%20Up%20SystemD%20Service.md
+New Image Sertup; ; ; ; 2024-06-20T05:39:17.175Z; 2025-01-05T11:43:22.988Z; RigBetelLabs, Linux, cli; ; ./New%20Image%20Sertup.md

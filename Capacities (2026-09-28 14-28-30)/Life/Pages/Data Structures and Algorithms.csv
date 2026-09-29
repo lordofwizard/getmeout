@@ -1,0 +1,12 @@
+title; aliases; description; icon; createdAt; lastUpdated; tags; coverImage; reference
+Index; ; Index of all my study related to data structures and algorithms. ; 👨‍🎓; 2025-03-04T09:10:26.172Z; 2025-03-04T09:36:36.144Z; DSA; Untitled; ./Index.md
+Binary Search; ; ; ; 2025-03-04T09:12:02.763Z; 2025-03-05T08:19:01.327Z; ; ; ./Binary%20Search.md
+Radix Sort; ; ; ; 2025-03-04T09:29:51.832Z; 2025-03-05T08:18:51.907Z; ; ; ./Radix%20Sort.md
+Doubly Linked List; ; ; ; 2025-03-04T09:34:05.072Z; 2025-03-05T08:18:51.884Z; ; ; ./Doubly%20Linked%20List.md
+Singly Linked List; ; ; ; 2025-03-04T09:33:39.184Z; 2025-03-05T08:18:51.891Z; ; ; ./Singly%20Linked%20List.md
+Array; ; ; ; 2025-03-04T09:31:14.401Z; 2025-03-05T08:18:51.899Z; ; ; ./Array.md
+Bubble Sort; ; ; ; 2025-03-04T09:22:15.867Z; 2025-03-05T08:18:51.922Z; ; ; ./Bubble%20Sort.md
+Quick Sort; ; ; ; 2025-03-04T09:16:53.260Z; 2025-03-05T08:19:01.316Z; ; ; ./Quick%20Sort.md
+Dictionary; ; ; ; 2025-03-04T09:35:14.224Z; 2025-03-05T08:18:51.876Z; ; ; ./Dictionary.md
+Heap Sort; ; ; ; 2025-03-04T09:27:22.753Z; 2025-03-05T08:18:51.914Z; ; ; ./Heap%20Sort.md
+Merge Sort; ; ; ; 2025-03-04T09:20:01.123Z; 2025-03-05T08:19:01.306Z; ; ; ./Merge%20Sort.md
