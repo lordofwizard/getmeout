@@ -151,7 +151,6 @@
 
 - GTO Nomination Program Award — recognized for ownership, agility, and impact.
 - GEM Award, MGCC level — recognized for exceptional April performance.
-- Confirmed at MetLife after successfully completing probation.
 - AI Engineering Cost & Usage Visibility Solution — received positive feedback from CorpTech leaders and requests to demo the plugin to a broader audience.
 
 ## Things I own / am the go-to for
