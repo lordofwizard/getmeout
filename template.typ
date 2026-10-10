@@ -47,6 +47,16 @@
 Two to three lines. Role title from the JD, years of experience, the two
 strongest must-haves you cover, one hard number.
 
+// ---------------------------------------------------------- achievements
+// Always present, directly under the Summary, on every resume. Source:
+// deeds/_profile.md -> Achievements & Recognition. Never cut for space.
+// Typst emphasis is *single asterisks* — writing ** renders a "no text within
+// stars" warning, not bold.
+#section("Achievements & Recognition")
+- <Recognition> — <what it was awarded for>.
+- <Sourced achievement> — <measurable outcome>.
+- <Open source / publication> — <adoption metric>.
+
 // ---------------------------------------------------------------- skills
 #section("Technical Skills")
 *Languages:* \
@@ -66,7 +76,3 @@ strongest must-haves you cover, one hard number.
 // ------------------------------------------------------------- education
 #section("Education")
 *Degree, Field* — Institution #h(1fr) MMM YYYY
-
-// -------------------------------------------------------------- optional
-// #section("Projects")
-// #section("Certifications")

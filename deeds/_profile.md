@@ -38,16 +38,25 @@ Static facts that appear on every resume. Never tailored per job.
 
 <!-- - <Name> — <Issuer>, <YYYY> -->
 
-## Publications / talks / open source
+## Achievements & Recognition — always include on every resume
 
-- MCServer — Rust setup suite for hosting Minecraft servers free on Google Cloud; 100+ GitHub stars, 3k+ downloads, maintain a 400-developer Discord community
+Every resume carries an **Achievements & Recognition** section (AGENTS.md step 4). The
+five "always" entries below go on **every** resume — never omit the section, never drop an
+award for space. Order them by relevance to the JD. The optional extras are added only when
+the JD rewards that kind of work.
+
+**Always (all five, every resume):**
+
+- **MetLife — GTO Nomination Program Award** — recognised for ownership, agility and impact
+- **MetLife — GEM Award, MGCC level** — recognised for exceptional performance
+- **Kavach National Hackathon — 1st Runner-up** — led a team building a USB-deployable RAM dump acquisition tool
+- **Smart India Hackathon — Runner-up** — led a team building a BTRFS/XFS recovery tool, granted by NTRO
+- **MCServer (open source)** — Rust setup suite for hosting Minecraft servers free on Google Cloud; 100+ GitHub stars, 3k+ downloads, maintain a 400-developer Discord community
+
+**Optional (only when the JD rewards them):**
+
 - YouTube — 50k+ views
 - ELFS — led a team that obtained copyright for a compression-based file system
-
-## Awards
-
-- Kavach National Hackathon — 1st Runner-up; led a team building a USB-deployable RAM dump acquisition tool
-- Smart India Hackathon — Runner-up; led a team building a BTRFS/XFS recovery tool, granted by NTRO
 
 ## Skills inventory
 

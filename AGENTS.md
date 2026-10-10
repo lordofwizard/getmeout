@@ -86,6 +86,16 @@ these jump to the top of their block:
 Budget: 3–5 bullets for the most relevant role, 2–3 for the rest. One page
 total unless the JD says staff/principal, then two.
 
+**MetLife floor.** The MetLife block always carries **at least 3** of these five,
+chosen by JD relevance — the budget may never drop them all:
+
+1. 7-tool MCP AI service + the internal MCP server platform other product teams use
+2. Token and cost telemetry across 5 engineering work categories (prompt-,
+   engineer-, team- and model-level attribution)
+3. Reinsurance data-validation POC → funded 2 AI engineering hires
+4. Oracle HCM pre-run/post-run diff automation → ~80 person-days saved
+5. Microsoft Teams chatbot turning meeting transcripts into summaries and action items
+
 ### 3. Skill coverage pass
 
 For every must-have technology in the JD, tag it against
@@ -96,20 +106,25 @@ For every must-have technology in the JD, tag it against
   MySQL, LangChain → LlamaIndex, Kubernetes → ECS)
 - `[gap]` — nothing in deeds or inventory
 
-**All three tiers go into the Technical Skills section**, so the ATS matches.
-Order the skills line: must-haves first, `[direct]` before `[adjacent]` before
-`[gap]`, then nice-to-haves, then the rest.
+**Only `[direct]` and `[adjacent]` go into the Technical Skills section.** A
+`[gap]` technology is never printed. Listing something you have never touched is the
+fastest way to make the whole document read as padded, and it is the one claim that
+collapses in a screening call. Detect gaps, tag them, report them in chat and in the
+tracker's `flagged` column — keep them off the page.
 
-Respect `deeds/_profile.md` → *Claim policy*. Never list anything under
-"Never list". Flag anything under "Ask me first" in the report.
+`deeds/_profile.md` → *Claim policy* is the one exception: an "Always OK to list" item
+may be printed without a deed, and an "Ask me first" item only when the JD names it as a
+required skill. Never list anything under "Never list". Always flag what you used.
 
-**Bullets stay deed-backed.** A `[gap]` technology appears in the skills line
-and may appear in the summary as an interest/direction, but never inside an
-experience bullet claiming you shipped it at a named employer. That is the one
-thing that collapses in a screening call, and it costs the whole application.
+Order the skills line: must-haves first, `[direct]` before `[adjacent]`, then the
+nice-to-haves, then the rest.
 
-Report every `[adjacent]` and `[gap]` to the user at the end so they know
-exactly what they'll be asked to defend.
+**Bullets stay deed-backed.** A `[gap]` technology may appear in the summary as an
+interest/direction, but never as a skill and never inside an experience bullet
+claiming you shipped it at a named employer.
+
+Report every `[adjacent]` and `[gap]` to the user at the end so they know exactly
+what they'll be asked to defend. Gaps are reported in chat, not printed.
 
 ### 4. Write the sections
 
@@ -119,6 +134,13 @@ Never add photo, date of birth, or marital status, even for DACH roles.
 
 **Summary (2–3 lines).** Role title from the JD + years + the two strongest
 must-haves you cover + one number. Written in the company's vocabulary.
+
+**Achievements & Recognition (always present).** Every resume carries this section
+directly under the Summary — never omit it, whatever the JD. Source it from
+`deeds/_profile.md` → *Achievements & Recognition*: the five "always" entries go on
+every resume, ordered by relevance, and the optional extras only when the JD rewards
+them. This section outranks the experience bullets for space — if the page runs long,
+cut a non-achievement bullet, never an award.
 
 **Skills.** Grouped, ordered per step 3. No proficiency percentages, no star
 ratings — ATS parsers mangle them.
@@ -133,8 +155,9 @@ ratings — ATS parsers mangle them.
 - Past tense everywhere except the current role.
 - One line each where possible; never more than two.
 
-**Education / Projects / Certs.** From `_profile.md`. Include Projects only if
-they close a `[gap]` the JD cares about.
+**Education / Certs.** From `_profile.md`. Projects and Awards are retired as separate
+sections — Achievements & Recognition replaces them. Include a project only if it is the
+single best evidence for a must-have.
 
 ### 5. Compile
 
@@ -249,6 +272,10 @@ Warnings: <language requirement, onsite-only with no visa, stated salary below t
   `fc-match` returns it for any font name, real or invented.
 - If `deeds/*.md` are still stubs, stop and say so — don't generate a resume of
   placeholders.
-- One page. Cut the weakest bullet before shrinking the font.
+- `deeds/_profile.md` → *Achievements & Recognition* goes on **every** resume, in the
+  section directly under the Summary. Never drop the section, an award, or a
+  MetLife-floor bullet to save space.
+- One page. Cut the weakest non-achievement bullet before shrinking the font; never
+  cut an award or a MetLife-floor bullet.
 - No cover letter unless asked.
 - Filenames: `Senior AI Engineer` @ `Anthropic` → `Senior-AI-Engineer-Anthropic`.
